@@ -1,0 +1,62 @@
+/* Style for unvisited links with class 'hello' */
+.hello:link {
+  color: red;
+}
+
+/* Style for hovered links with class 'hello' */
+.hello:hover {
+  font-family: arial;
+  font-size: 20px;
+  color: brown;
+}
+
+/* Style for active links with class 'hello' */
+.hello:active {
+  font-style: italic;
+  color: green;
+}
+
+/* Style for visited links with class 'hello' */
+.hello:visited {
+  color: blue;
+}
+
+/* Style for the first child list item link */
+li:first-child a {
+  color: green;
+}
+
+/* Style for the last child list item link */
+li:last-child a {
+  color: red;
+}
+
+/* Style for the fifth child list item link */
+li:nth-child(5) a {
+  color: orange;
+}
+
+/* Style for every second child list item link */
+li:nth-child(2n) a {
+  color: black;
+}
+
+/* Style for even child list item links */
+li:nth-child(even) a {
+  color: yellowgreen;
+}
+
+/* Style for hovered even child list item links */
+li:nth-child(even) a:hover {
+  color: yellow;
+}
+
+/* Style for the first paragraph */
+p:first-of-type {
+  color: green;
+}
+
+/* Style for the last paragraph */
+p:last-of-type {
+  color: grey;
+}

@@ -1,0 +1,6 @@
+/* Set the background color of the body to a light gray */
+body {
+  background-color: #999999;
+  /* Set the background image of the body to bg1.png located in the image folder */
+  background-image: url(image/bg1.png);
+}

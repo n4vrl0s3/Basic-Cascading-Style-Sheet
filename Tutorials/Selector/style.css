@@ -1,0 +1,40 @@
+/* Set the font family for the entire body to Arial */
+body {
+  font-family: arial;
+}
+
+/* Set the color of h1 and h2 elements to slategray */
+h1,
+h2 {
+  color: slategray;
+}
+
+/* Set the color of links inside unordered lists to grey */
+ul li a {
+  color: grey;
+}
+
+/* Set the color of links inside ordered lists to grey */
+ol li a {
+  color: grey;
+}
+
+/* Set the color of the element with id 'p1' to saddlebrown */
+#p1 {
+  color: saddlebrown;
+}
+
+/* Set the color of elements with class 'p2' to indianred */
+.p2 {
+  color: indianred;
+}
+
+/* Set the font weight of elements with class 'boldtext' to bold */
+.boldtext {
+  font-weight: bold;
+}
+
+/* Set the font size of elements with both classes 'p2' and 'boldtext' to large */
+.p2.boldtext {
+  font-size: large;
+}

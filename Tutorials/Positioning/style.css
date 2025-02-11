@@ -1,0 +1,7 @@
+/* This CSS rule styles the h1 element with red color, 50px font size, centered text alignment, and Arial font family */
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+  font-family: arial;
+}

@@ -1,0 +1,21 @@
+/* Styling for h1 elements */
+h1 {
+  /* Set the font family to Arial, Verdana, or any available sans-serif font */
+  font-family: arial, verdana, sans-serif;
+  /* Set the font size to 100 pixels */
+  font-size: 100px;
+  /* Use small-caps for the font variant */
+  font-variant: small-caps;
+  /* Italicize the font */
+  font-style: italic;
+}
+
+/* Styling for p elements */
+p {
+  /* Set the font family to Georgia or any available serif font */
+  font-family: Georgia, serif;
+  /* Make the font bold */
+  font-weight: bold;
+  /* Set the line height to 50 pixels */
+  line-height: 50px;
+}
