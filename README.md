@@ -115,7 +115,7 @@ Below is a demonstration of a simple CSS styling:
 1. **Clone this Repository**
 
 ```bash
-git clone https://github.com/guanshiyin28/Basic-Cascading-Style-Sheet.git
+git clone https://github.com/n4vrl0s3/Basic-Cascading-Style-Sheet.git
 ```
 
 2. **Open the project in your preferred code editor**
@@ -136,7 +136,7 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 <hr><br>
 
 <div align="center">
-   <a href="https://www.instagram.com/guanshiyin28/">
+   <a href="https://www.instagram.com/n4vrl0s3/">
       <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
    </a>
 </div>
